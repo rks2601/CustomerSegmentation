@@ -16,37 +16,6 @@ Before clustering, the raw dataset is preprocessed to handle missing values, sca
   Visualizing the dataset in 3D space for a more comprehensive view.
   Features selected for the plot are [feature1], [feature2], and [feature3].
 
-
-Certainly! Below is an example README file for a customer segmentation project that involves preprocessing a raw dataset, visualizing scatter plots in 2D and 3D, determining the optimal number of clusters (k) using elbow and silhouette methods, and performing clustering using k-means, DBSCAN, and hierarchical clustering. The performance of clusters is then analyzed using silhouette and CH (Calinski-Harabasz) scores.
-
-Customer Segmentation Project
-This project involves customer segmentation using various clustering techniques. The goal is to group customers based on their behavior and characteristics. The project includes preprocessing of the raw dataset, visualization of scatter plots in 2D and 3D, determination of the optimal number of clusters (k), and clustering using k-means, DBSCAN, and hierarchical clustering algorithms. The performance of the clusters is analyzed using silhouette and CH scores.
-
-Table of Contents
-Dataset
-Preprocessing
-Visualization
-Clustering
-Performance Analysis
-Installation
-Usage
-Contributing
-License
-Dataset
-The dataset used in this project contains information about customers, including various features that can be used for segmentation.
-
-Preprocessing
-Before clustering, the raw dataset is preprocessed to handle missing values, scale features, and encode categorical variables if necessary. This ensures that the data is ready for clustering algorithms.
-
-Visualization
-Scatter Plot (2D):
-
-Visualizing the dataset in 2D space to identify potential clusters.
-Features selected for the plot are [feature1] and [feature2].
-Scatter Plot (3D):
-
-Visualizing the dataset in 3D space for a more comprehensive view.
-Features selected for the plot are [feature1], [feature2], and [feature3].
 # Clustering
 
 **Determination of k:**
